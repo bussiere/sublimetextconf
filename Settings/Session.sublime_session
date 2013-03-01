@@ -1,0 +1,2891 @@
+{
+	"folder_history":
+	[
+		"/home/bussiere/workspace/PirateBoxMessageBoard",
+		"/home/bussiere/workspace/Yuki",
+		"/home/bussiere/workspace/Satsuki",
+		"/home/bussiere/workspace/Jackpoint",
+		"/home/bussiere/Hack/Maison",
+		"/home/bussiere/workspace/DrakBus",
+		"/home/bussiere/workspace/DrakBus/DrakBus",
+		"/home/bussiere/workspace/Jackpoint/JackPointFInal/jackpoint"
+	],
+	"last_window_id": 18,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "Packages/Python/Python.sublime-build",
+			"command_palette":
+			{
+				"height": 54.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bussiere/workspace/temp/x.html",
+				"/home/bussiere/workspace/DrakBus/Engine/views.py",
+				"/home/bussiere/workspace/DrakBus/Forum/models.py",
+				"/home/bussiere/workspace/DrakBus/Sondage/models.py",
+				"/home/bussiere/workspace/DrakBus/Forum/admin.py",
+				"/home/bussiere/workspace/DrakBus/generateadm.py",
+				"/home/bussiere/workspace/DrakBus/Calendar/admin.py",
+				"/home/bussiere/workspace/DrakBus/Demande/models.py",
+				"/home/bussiere/workspace/DrakBus/Event/models.py",
+				"/home/bussiere/workspace/DrakBus/Engine/models.py",
+				"/home/bussiere/workspace/DrakBus/Calendar/models.py",
+				"/home/bussiere/workspace/DrakBus/Game/models.py",
+				"/home/bussiere/workspace/DrakBus/template/index.html",
+				"/home/bussiere/workspace/DrakBus/settings.py",
+				"/home/bussiere/workspace/DrakBus/Player/models.py",
+				"/home/bussiere/workspace/DrakBus/templates/index.html",
+				"/home/bussiere/workspace/DrakBus/urls.py",
+				"/home/bussiere/Hack/Report/Compilemd.py",
+				"/home/bussiere/Hack/Report/ReportMadrhas.md",
+				"/home/bussiere/.config/sublime-text-2/Packages/User/elixir.sublime-build",
+				"/home/bussiere/Téléchargements/test.exs",
+				"/home/bussiere/Hack/Maison/initdblitej.py",
+				"/home/bussiere/Hack/Maison/tabcreatebrute.py",
+				"/home/bussiere/Hack/Maison/joomlahack.py",
+				"/home/bussiere/Téléchargements/test.py",
+				"/home/bussiere/Téléchargements/initdblite.py",
+				"/home/bussiere/Téléchargements/bruteforceldap.py",
+				"/home/bussiere/Téléchargements/bruiteforce2.py",
+				"/home/bussiere/Téléchargements/bforcezip.py",
+				"/home/bussiere/Hack/Maison/initdblite.py",
+				"/home/bussiere/Téléchargements/hash.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"'}),",
+					"\"\"\"\\r\\n",
+					"\"\"\"\\n",
+					"Jackpoint",
+					"row-fluid",
+					"span4",
+					"row",
+					"bootstrap/js/jquery.js",
+					"analy",
+					"templa",
+					"STATIC_URL",
+					"Game.Reseau",
+					"Adminsitration",
+					"Player",
+					"f.write(",
+					"f.write"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\"\"\"",
+					"PirateBoxMessageBoard",
+					"row",
+					"span2",
+					"row-fluid",
+					"js/jquery.js",
+					"Player.Reseau",
+					"Administration",
+					"writedb(",
+					"pass"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 304.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "{% include \"header.html\" %}\n{% include \"barrehaut.html\" %}\n<div class=\"container\">\n            <div class=\"row\">\n                        <div class=\"span2\">\n                            {% include \"barregauche.html\" %}\n                        </div>\n                        \n                        <div class=\"span8\">\n                            <div class=\"row\">\n                                <div class=\"span6\">\n                                    last notif\n                                </div>\n                            </div>\n\n                            <div class=\"row\">\n\n                                <div class=\"span6\">\n                                    last mp\n                                </div>\n\n                            </div>\n\n                        </div>\n\n\n                        <div class=\"span2\">\n                            Barre Droite\n                        </div>\n            </div>\n\n            <div class=\"row\">\n                <div class=\"span12\">\n                caracs\n                </div>\n            </div>\n\n            <div class=\"row\">\n                <div class=\"span12\">\n                skills\n                </div>\n            </div>\n\n            <div class=\"row\">\n                <div class=\"span12\">\n                items\n                </div>\n            </div>\n</div>\n{% include \"footer.html\" %}\n\n\n\n\n\n\n          ",
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/x.html",
+					"file_size": 1346,
+					"file_write_time": 1361460563000000,
+					"settings":
+					{
+						"buffer_size": 1374,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/Xitems.html",
+					"settings":
+					{
+						"buffer_size": 219,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/Xskills.html",
+					"settings":
+					{
+						"buffer_size": 262,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/Xcaracs.html",
+					"settings":
+					{
+						"buffer_size": 252,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/lastmp.html",
+					"settings":
+					{
+						"buffer_size": 488,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/lastnotifications.html",
+					"settings":
+					{
+						"buffer_size": 527,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "\n        Amis\n",
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/barredroite.html",
+					"file_size": 76,
+					"file_write_time": 1361456841000000,
+					"settings":
+					{
+						"buffer_size": 14,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/barregauche.html",
+					"settings":
+					{
+						"buffer_size": 2434,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/header.html",
+					"settings":
+					{
+						"buffer_size": 721,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/engine/views.py",
+					"settings":
+					{
+						"buffer_size": 1235,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/urls.py",
+					"settings":
+					{
+						"buffer_size": 1742,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/firstinvit.html",
+					"settings":
+					{
+						"buffer_size": 183,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/jack/models.py",
+					"settings":
+					{
+						"buffer_size": 5873,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/index.html",
+					"settings":
+					{
+						"buffer_size": 1043,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"command_palette":
+			{
+				"height": 54.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bussiere/workspace/temp/x.html",
+				"/home/bussiere/workspace/DrakBus/Engine/views.py",
+				"/home/bussiere/workspace/DrakBus/Forum/models.py",
+				"/home/bussiere/workspace/DrakBus/Sondage/models.py",
+				"/home/bussiere/workspace/DrakBus/Forum/admin.py",
+				"/home/bussiere/workspace/DrakBus/generateadm.py",
+				"/home/bussiere/workspace/DrakBus/Calendar/admin.py",
+				"/home/bussiere/workspace/DrakBus/Demande/models.py",
+				"/home/bussiere/workspace/DrakBus/Event/models.py",
+				"/home/bussiere/workspace/DrakBus/Engine/models.py",
+				"/home/bussiere/workspace/DrakBus/Calendar/models.py",
+				"/home/bussiere/workspace/DrakBus/Game/models.py",
+				"/home/bussiere/workspace/DrakBus/template/index.html",
+				"/home/bussiere/workspace/DrakBus/settings.py",
+				"/home/bussiere/workspace/DrakBus/Player/models.py",
+				"/home/bussiere/workspace/DrakBus/templates/index.html",
+				"/home/bussiere/workspace/DrakBus/urls.py",
+				"/home/bussiere/Hack/Report/Compilemd.py",
+				"/home/bussiere/Hack/Report/ReportMadrhas.md",
+				"/home/bussiere/.config/sublime-text-2/Packages/User/elixir.sublime-build",
+				"/home/bussiere/Téléchargements/test.exs",
+				"/home/bussiere/Hack/Maison/initdblitej.py",
+				"/home/bussiere/Hack/Maison/tabcreatebrute.py",
+				"/home/bussiere/Hack/Maison/joomlahack.py",
+				"/home/bussiere/Téléchargements/test.py",
+				"/home/bussiere/Téléchargements/initdblite.py",
+				"/home/bussiere/Téléchargements/bruteforceldap.py",
+				"/home/bussiere/Téléchargements/bruiteforce2.py",
+				"/home/bussiere/Téléchargements/bforcezip.py",
+				"/home/bussiere/Hack/Maison/initdblite.py",
+				"/home/bussiere/Téléchargements/hash.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"row-fluid",
+					"span4",
+					"row",
+					"bootstrap/js/jquery.js",
+					"analy",
+					"templa",
+					"STATIC_URL",
+					"Game.Reseau",
+					"Adminsitration",
+					"Player",
+					"f.write(",
+					"f.write"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"row",
+					"span2",
+					"row-fluid",
+					"js/jquery.js",
+					"Player.Reseau",
+					"Administration",
+					"writedb(",
+					"pass"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/bussiere/workspace/Jackpoint"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 12,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/x.html",
+							"settings":
+							{
+								"buffer_size": 1374,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/Xitems.html",
+							"settings":
+							{
+								"buffer_size": 219,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										219,
+										219
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/Xskills.html",
+							"settings":
+							{
+								"buffer_size": 262,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										262,
+										262
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/Xcaracs.html",
+							"settings":
+							{
+								"buffer_size": 252,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										252,
+										252
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/lastmp.html",
+							"settings":
+							{
+								"buffer_size": 488,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										488,
+										488
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/lastnotifications.html",
+							"settings":
+							{
+								"buffer_size": 527,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										64,
+										64
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/barredroite.html",
+							"settings":
+							{
+								"buffer_size": 14,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/barregauche.html",
+							"settings":
+							{
+								"buffer_size": 2434,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1774,
+										1774
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/header.html",
+							"settings":
+							{
+								"buffer_size": 721,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										441,
+										441
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/engine/views.py",
+							"settings":
+							{
+								"buffer_size": 1235,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										712,
+										712
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/urls.py",
+							"settings":
+							{
+								"buffer_size": 1742,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										451,
+										451
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/firstinvit.html",
+							"settings":
+							{
+								"buffer_size": 183,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										183,
+										183
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/jack/models.py",
+							"settings":
+							{
+								"buffer_size": 5873,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4763,
+										4763
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1071.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/home/bussiere/workspace/Jackpoint/JackPointFInal/Jackpoint/templates/index.html",
+							"settings":
+							{
+								"buffer_size": 1043,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										247,
+										247
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"position": "0,0,0,0,0,0,18,316,1003,1280,1024",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 246.0,
+			"status_bar_visible": true,
+			"window_id": 9,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/bussiere/Hack/Maison/bruteforceldap.py",
+					"settings":
+					{
+						"buffer_size": 6269,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/bussiere/Hack/Maison/compte.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/Hack/Maison/ldapinjection.py",
+					"settings":
+					{
+						"buffer_size": 1111,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/Hack/Maison/hack.py",
+					"settings":
+					{
+						"buffer_size": 1088,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/Hack/Maison/calcul.py",
+					"settings":
+					{
+						"buffer_size": 18,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/list.txt",
+					"settings":
+					{
+						"buffer_size": 70871,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/Hack/Maison/bruiteforce2cloud.py",
+					"settings":
+					{
+						"buffer_size": 10434,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/Hack/Maison/initdblite.py",
+					"settings":
+					{
+						"buffer_size": 305,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"command_palette":
+			{
+				"height": 54.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bussiere/Hack/Report/Compilemd.py",
+				"/home/bussiere/Hack/Report/ReportMadrhas.md",
+				"/home/bussiere/.config/sublime-text-2/Packages/User/elixir.sublime-build",
+				"/home/bussiere/Téléchargements/test.exs",
+				"/home/bussiere/Hack/Maison/initdblitej.py",
+				"/home/bussiere/Hack/Maison/tabcreatebrute.py",
+				"/home/bussiere/Hack/Maison/joomlahack.py",
+				"/home/bussiere/Téléchargements/test.py",
+				"/home/bussiere/Téléchargements/initdblite.py",
+				"/home/bussiere/Téléchargements/bruteforceldap.py",
+				"/home/bussiere/Téléchargements/bruiteforce2.py",
+				"/home/bussiere/Téléchargements/bforcezip.py",
+				"/home/bussiere/Hack/Maison/initdblite.py",
+				"/home/bussiere/Téléchargements/hash.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"writedb",
+					"compteur ",
+					"bootstrap/js/jquery.js",
+					"analy",
+					"templa",
+					"STATIC_URL",
+					"Game.Reseau",
+					"Adminsitration",
+					"Player",
+					"f.write(",
+					"f.write"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"self.writedb",
+					"self.compteur",
+					"js/jquery.js",
+					"Player.Reseau",
+					"Administration",
+					"writedb(",
+					"pass"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/bussiere/Hack/Maison"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/bussiere/Hack/Maison/bruteforceldap.py",
+							"settings":
+							{
+								"buffer_size": 6269,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										593,
+										593
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/bussiere/Hack/Maison/compte.py",
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/bussiere/Hack/Maison/ldapinjection.py",
+							"settings":
+							{
+								"buffer_size": 1111,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										208,
+										208
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/bussiere/Hack/Maison/hack.py",
+							"settings":
+							{
+								"buffer_size": 1088,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										180,
+										180
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/bussiere/Hack/Maison/calcul.py",
+							"settings":
+							{
+								"buffer_size": 18,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7,
+										7
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/bussiere/list.txt",
+							"settings":
+							{
+								"buffer_size": 70871,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 40896.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/bussiere/Hack/Maison/bruiteforce2cloud.py",
+							"settings":
+							{
+								"buffer_size": 10434,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23,
+										23
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/bussiere/Hack/Maison/initdblite.py",
+							"settings":
+							{
+								"buffer_size": 305,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										301,
+										301
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 283.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 295.0
+			},
+			"position": "0,0,0,0,0,320,18,636,1003,1280,1024",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 246.0,
+			"status_bar_visible": true,
+			"window_id": 13,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/bussiere/workspace/Satsuki/settings.py",
+					"settings":
+					{
+						"buffer_size": 5265,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Satsuki/contact/models.py",
+					"settings":
+					{
+						"buffer_size": 2391,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Satsuki/contact/admin.py",
+					"settings":
+					{
+						"buffer_size": 366,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Satsuki/place/models.py",
+					"settings":
+					{
+						"buffer_size": 2067,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Satsuki/billet/models.py",
+					"settings":
+					{
+						"buffer_size": 679,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/Satsuki/person/models.py",
+					"settings":
+					{
+						"buffer_size": 14040,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"command_palette":
+			{
+				"height": 54.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bussiere/workspace/temp/x.html",
+				"/home/bussiere/workspace/DrakBus/Engine/views.py",
+				"/home/bussiere/workspace/DrakBus/Forum/models.py",
+				"/home/bussiere/workspace/DrakBus/Sondage/models.py",
+				"/home/bussiere/workspace/DrakBus/Forum/admin.py",
+				"/home/bussiere/workspace/DrakBus/generateadm.py",
+				"/home/bussiere/workspace/DrakBus/Calendar/admin.py",
+				"/home/bussiere/workspace/DrakBus/Demande/models.py",
+				"/home/bussiere/workspace/DrakBus/Event/models.py",
+				"/home/bussiere/workspace/DrakBus/Engine/models.py",
+				"/home/bussiere/workspace/DrakBus/Calendar/models.py",
+				"/home/bussiere/workspace/DrakBus/Game/models.py",
+				"/home/bussiere/workspace/DrakBus/template/index.html",
+				"/home/bussiere/workspace/DrakBus/settings.py",
+				"/home/bussiere/workspace/DrakBus/Player/models.py",
+				"/home/bussiere/workspace/DrakBus/templates/index.html",
+				"/home/bussiere/workspace/DrakBus/urls.py",
+				"/home/bussiere/Hack/Report/Compilemd.py",
+				"/home/bussiere/Hack/Report/ReportMadrhas.md",
+				"/home/bussiere/.config/sublime-text-2/Packages/User/elixir.sublime-build",
+				"/home/bussiere/Téléchargements/test.exs",
+				"/home/bussiere/Hack/Maison/initdblitej.py",
+				"/home/bussiere/Hack/Maison/tabcreatebrute.py",
+				"/home/bussiere/Hack/Maison/joomlahack.py",
+				"/home/bussiere/Téléchargements/test.py",
+				"/home/bussiere/Téléchargements/initdblite.py",
+				"/home/bussiere/Téléchargements/bruteforceldap.py",
+				"/home/bussiere/Téléchargements/bruiteforce2.py",
+				"/home/bussiere/Téléchargements/bforcezip.py",
+				"/home/bussiere/Hack/Maison/initdblite.py",
+				"/home/bussiere/Téléchargements/hash.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ManyToMany(\"Id\"",
+					"Id = models.TextField(",
+					"row-fluid",
+					"span4",
+					"row",
+					"bootstrap/js/jquery.js",
+					"analy",
+					"templa",
+					"STATIC_URL",
+					"Game.Reseau",
+					"Adminsitration",
+					"Player",
+					"f.write(",
+					"f.write"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ManyToManyField(\"Id\"",
+					"Id = models.ManyToMany(\"Id\",",
+					"row",
+					"span2",
+					"row-fluid",
+					"js/jquery.js",
+					"Player.Reseau",
+					"Administration",
+					"writedb(",
+					"pass"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/bussiere/workspace/Satsuki"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/bussiere/workspace/Satsuki/settings.py",
+							"settings":
+							{
+								"buffer_size": 5265,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4588,
+										4588
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1581.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/bussiere/workspace/Satsuki/contact/models.py",
+							"settings":
+							{
+								"buffer_size": 2391,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										237,
+										237
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/bussiere/workspace/Satsuki/contact/admin.py",
+							"settings":
+							{
+								"buffer_size": 366,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										165,
+										165
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/bussiere/workspace/Satsuki/place/models.py",
+							"settings":
+							{
+								"buffer_size": 2067,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										548,
+										548
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/bussiere/workspace/Satsuki/billet/models.py",
+							"settings":
+							{
+								"buffer_size": 679,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/bussiere/workspace/Satsuki/person/models.py",
+							"settings":
+							{
+								"buffer_size": 14040,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13965,
+										13965
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5916.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"position": "0,0,0,0,0,640,18,956,1003,1280,1024",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 246.0,
+			"status_bar_visible": true,
+			"window_id": 15,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/settings.py",
+					"settings":
+					{
+						"buffer_size": 5676,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/urls.py",
+					"settings":
+					{
+						"buffer_size": 691,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/templates/404.html",
+					"settings":
+					{
+						"buffer_size": 296,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/hircd/hircd.py",
+					"settings":
+					{
+						"buffer_size": 22618,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/message/views.py",
+					"settings":
+					{
+						"buffer_size": 2524,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/templates/message.html",
+					"settings":
+					{
+						"buffer_size": 1208,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/templates/irc.html",
+					"settings":
+					{
+						"buffer_size": 79,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/message/forms.py",
+					"settings":
+					{
+						"buffer_size": 237,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/message/models.py",
+					"settings":
+					{
+						"buffer_size": 590,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "{% include \"header.html\" %}\n<form action=\"../\" method=\"post\">{% csrf_token %}\n<div class=\"container\">\n  \n  <div class=\"page-header\">Message Board done by bussiere.{% include \"irc.html\" %}</div>\n\n  <div class=\"row\">\n    <div class=\"span2\">Pseudo :</div>\n    <div class=\"span10\">{{ form.Pseudo }}</div>\n     </div>\n       <div class=\"row\">\n    <div class=\"span2\">Description :</div>\n    <div class=\"span10\">{{ form.Description }}</div>\n     </div>\n  <div class=\"row\">\n    <div class=\"span2\">Message :</div>\n    <div class=\"span10\" ><textarea class=\"field span8\" id=\"id_Message\"  name=\"Message\" rows=\"6\" placeholder=\"Message\"></textarea></div>\n  </div>\n   <div class=\"row\">\n    <div class=\"span12\"><input class=\"btn btn-inverse\" type=\"submit\" value=\"Submit\" /></div>\n\n    </div>\n </form>\n\n  <div class=\"row\">\n    <div class=\"span12\">\n       <ul class=\"active\">\n      {% for message in listemessage %}\n<li><a href=\"../message/{{ message.id }}\">{{ message.Description }} by {{ message.Pseudo }} at {{ message.Date }} </a></li>\n      {%endfor%}\n    </ul>\n    </div>\n  </div>\n</div>\n  <div class=\"row\">\n    <div class=\"span3\"><a href=\"../?idm={{total}}\"><<</a></div>\n     <div class=\"span3\"><a href=\"../?idm={{ supp }}\"><</a></div>\n     <div class=\"span3\"><a href=\"../?idm={{ minus }}\">></a></div>\n     <div class=\"span3\"><a href=\"../?idm={{nbrepost}}\">>></a></div>\n  </div>\n</div>\n<br>\n  <div class=\"row\">\n    <div class=\"span8\">Code Source : <a href=\"https://github.com/bussiere/PirateBoxMessageBoard\">Fallow the rabbit</a></div>\n  </div>\n</div>\n\n{% include \"footer.html\" %}",
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/templates/index.html",
+					"file_size": 1566,
+					"file_write_time": 1362067869000000,
+					"settings":
+					{
+						"buffer_size": 1569,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/templates/header.html",
+					"settings":
+					{
+						"buffer_size": 719,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/cherypyd.py",
+					"settings":
+					{
+						"buffer_size": 4421,
+						"line_ending": "Unix",
+						"name": "import os"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/templates/footer.html",
+					"settings":
+					{
+						"buffer_size": 138,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/message/admin.py",
+					"settings":
+					{
+						"buffer_size": 147,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"command_palette":
+			{
+				"height": 54.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bussiere/workspace/temp/x.html",
+				"/home/bussiere/workspace/DrakBus/Engine/views.py",
+				"/home/bussiere/workspace/DrakBus/Forum/models.py",
+				"/home/bussiere/workspace/DrakBus/Sondage/models.py",
+				"/home/bussiere/workspace/DrakBus/Forum/admin.py",
+				"/home/bussiere/workspace/DrakBus/generateadm.py",
+				"/home/bussiere/workspace/DrakBus/Calendar/admin.py",
+				"/home/bussiere/workspace/DrakBus/Demande/models.py",
+				"/home/bussiere/workspace/DrakBus/Event/models.py",
+				"/home/bussiere/workspace/DrakBus/Engine/models.py",
+				"/home/bussiere/workspace/DrakBus/Calendar/models.py",
+				"/home/bussiere/workspace/DrakBus/Game/models.py",
+				"/home/bussiere/workspace/DrakBus/template/index.html",
+				"/home/bussiere/workspace/DrakBus/settings.py",
+				"/home/bussiere/workspace/DrakBus/Player/models.py",
+				"/home/bussiere/workspace/DrakBus/templates/index.html",
+				"/home/bussiere/workspace/DrakBus/urls.py",
+				"/home/bussiere/Hack/Report/Compilemd.py",
+				"/home/bussiere/Hack/Report/ReportMadrhas.md",
+				"/home/bussiere/.config/sublime-text-2/Packages/User/elixir.sublime-build",
+				"/home/bussiere/Téléchargements/test.exs",
+				"/home/bussiere/Hack/Maison/initdblitej.py",
+				"/home/bussiere/Hack/Maison/tabcreatebrute.py",
+				"/home/bussiere/Hack/Maison/joomlahack.py",
+				"/home/bussiere/Téléchargements/test.py",
+				"/home/bussiere/Téléchargements/initdblite.py",
+				"/home/bussiere/Téléchargements/bruteforceldap.py",
+				"/home/bussiere/Téléchargements/bruiteforce2.py",
+				"/home/bussiere/Téléchargements/bforcezip.py",
+				"/home/bussiere/Hack/Maison/initdblite.py",
+				"/home/bussiere/Téléchargements/hash.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"'}),",
+					"\"\"\"\\r\\n",
+					"\"\"\"\\n",
+					"Jackpoint",
+					"row-fluid",
+					"span4",
+					"row",
+					"bootstrap/js/jquery.js",
+					"analy",
+					"templa",
+					"STATIC_URL",
+					"Game.Reseau",
+					"Adminsitration",
+					"Player",
+					"f.write(",
+					"f.write"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\"\"\"",
+					"PirateBoxMessageBoard",
+					"row",
+					"span2",
+					"row-fluid",
+					"js/jquery.js",
+					"Player.Reseau",
+					"Administration",
+					"writedb(",
+					"pass"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/bussiere/workspace/PirateBoxMessageBoard"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/settings.py",
+							"settings":
+							{
+								"buffer_size": 5676,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										281,
+										281
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/urls.py",
+							"settings":
+							{
+								"buffer_size": 691,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										565,
+										565
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/templates/404.html",
+							"settings":
+							{
+								"buffer_size": 296,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										139,
+										139
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/bussiere/workspace/hircd/hircd.py",
+							"settings":
+							{
+								"buffer_size": 22618,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2972,
+										2972
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 790.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/message/views.py",
+							"settings":
+							{
+								"buffer_size": 2524,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1449,
+										1449
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 255.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/templates/message.html",
+							"settings":
+							{
+								"buffer_size": 1208,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										652,
+										652
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/templates/irc.html",
+							"settings":
+							{
+								"buffer_size": 79,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										79,
+										79
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/message/forms.py",
+							"settings":
+							{
+								"buffer_size": 237,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										106,
+										106
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/message/models.py",
+							"settings":
+							{
+								"buffer_size": 590,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										589,
+										589
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/templates/index.html",
+							"settings":
+							{
+								"buffer_size": 1569,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1497,
+										1497
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 510.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/templates/header.html",
+							"settings":
+							{
+								"buffer_size": 719,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										365,
+										365
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/cherypyd.py",
+							"settings":
+							{
+								"buffer_size": 4421,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2810,
+										2810
+									]
+								],
+								"settings":
+								{
+									"auto_name": "import os",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 510.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/templates/footer.html",
+							"settings":
+							{
+								"buffer_size": 138,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										73,
+										73
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/home/bussiere/workspace/PirateBoxMessageBoard/PirateBoxMessageBoard/message/admin.py",
+							"settings":
+							{
+								"buffer_size": 147,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										145,
+										145
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"position": "0,0,0,0,0,960,18,1276,1003,1280,1024",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 304.0,
+			"status_bar_visible": true,
+			"window_id": 17,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/bussiere/hello.go",
+					"settings":
+					{
+						"buffer_size": 74,
+						"line_ending": "Unix",
+						"name": "package main"
+					}
+				},
+				{
+					"file": "/home/bussiere/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 140,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bussiere/.config/sublime-text-2/Packages/User/GO.sublime-build",
+					"settings":
+					{
+						"buffer_size": 277,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/Go Build/Go.sublime-build",
+			"command_palette":
+			{
+				"height": 54.0,
+				"selected_items":
+				[
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bussiere/.config/sublime-text-2/Packages/GoSublime/CHANGELOG.md",
+				"/home/bussiere/workspace/temp/x.html",
+				"/home/bussiere/workspace/DrakBus/Engine/views.py",
+				"/home/bussiere/workspace/DrakBus/Forum/models.py",
+				"/home/bussiere/workspace/DrakBus/Sondage/models.py",
+				"/home/bussiere/workspace/DrakBus/Forum/admin.py",
+				"/home/bussiere/workspace/DrakBus/generateadm.py",
+				"/home/bussiere/workspace/DrakBus/Calendar/admin.py",
+				"/home/bussiere/workspace/DrakBus/Demande/models.py",
+				"/home/bussiere/workspace/DrakBus/Event/models.py",
+				"/home/bussiere/workspace/DrakBus/Engine/models.py",
+				"/home/bussiere/workspace/DrakBus/Calendar/models.py",
+				"/home/bussiere/workspace/DrakBus/Game/models.py",
+				"/home/bussiere/workspace/DrakBus/template/index.html",
+				"/home/bussiere/workspace/DrakBus/settings.py",
+				"/home/bussiere/workspace/DrakBus/Player/models.py",
+				"/home/bussiere/workspace/DrakBus/templates/index.html",
+				"/home/bussiere/workspace/DrakBus/urls.py",
+				"/home/bussiere/Hack/Report/Compilemd.py",
+				"/home/bussiere/Hack/Report/ReportMadrhas.md",
+				"/home/bussiere/.config/sublime-text-2/Packages/User/elixir.sublime-build",
+				"/home/bussiere/Téléchargements/test.exs",
+				"/home/bussiere/Hack/Maison/initdblitej.py",
+				"/home/bussiere/Hack/Maison/tabcreatebrute.py",
+				"/home/bussiere/Hack/Maison/joomlahack.py",
+				"/home/bussiere/Téléchargements/test.py",
+				"/home/bussiere/Téléchargements/initdblite.py",
+				"/home/bussiere/Téléchargements/bruteforceldap.py",
+				"/home/bussiere/Téléchargements/bruiteforce2.py",
+				"/home/bussiere/Téléchargements/bforcezip.py",
+				"/home/bussiere/Hack/Maison/initdblite.py",
+				"/home/bussiere/Téléchargements/hash.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"'}),",
+					"\"\"\"\\r\\n",
+					"\"\"\"\\n",
+					"Jackpoint",
+					"row-fluid",
+					"span4",
+					"row",
+					"bootstrap/js/jquery.js",
+					"analy",
+					"templa",
+					"STATIC_URL",
+					"Game.Reseau",
+					"Adminsitration",
+					"Player",
+					"f.write(",
+					"f.write"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\"\"\"",
+					"PirateBoxMessageBoard",
+					"row",
+					"span2",
+					"row-fluid",
+					"js/jquery.js",
+					"Player.Reseau",
+					"Administration",
+					"writedb(",
+					"pass"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/bussiere/hello.go",
+							"settings":
+							{
+								"buffer_size": 74,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13,
+										13
+									]
+								],
+								"settings":
+								{
+									"auto_name": "package main",
+									"syntax": "Packages/GoSublime/GoSublime.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/bussiere/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+							"settings":
+							{
+								"buffer_size": 140,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										59,
+										59
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/bussiere/.config/sublime-text-2/Packages/User/GO.sublime-build",
+							"settings":
+							{
+								"buffer_size": 277,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										277,
+										277
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 112.0
+			},
+			"position": "0,0,0,0,0,0,18,1276,1003,1280,1024",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 304.0,
+			"status_bar_visible": true,
+			"window_id": 18,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

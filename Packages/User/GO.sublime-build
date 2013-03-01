@@ -1,0 +1,11 @@
+{
+    "cmd": ["go","run", "${file}"],
+    "working_dir": "${file_path}",
+    "selector": "source.go, source.g",
+    "path": "/usr/lib/go/bin:$PATH",
+    "env": {
+        "GOPATH": "$HOME/gocode/",
+        "GOROOT": "/usr/lib/go",
+        "PATH": "/usr/lib/go/bin:$PATH"
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"CSSFormat",
+		"Elixir",
+		"Go Build",
+		"GoSublime",
+		"IPython Integration",
+		"LaTeXTools",
+		"Package Control",
+		"Python Auto-Complete",
+		"Stupid Indent"
+	]
+}

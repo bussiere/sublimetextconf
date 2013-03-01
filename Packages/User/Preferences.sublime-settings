@@ -1,0 +1,11 @@
+{
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"env": {
+    "GOROOT": "/usr/lib/go",
+    "GOPATH": "/home/daggi/gocode"
+  }
+}
